@@ -21,5 +21,5 @@ def classify_triangle(side_a,side_b,side_c):
         return "Scalene Right"
     return "Scalene"
 #also comment the following two lines when testing
-classify_triangle(side_length_a,side_length_b,side_length_c)
-print(classify_triangle(side_length_a,side_length_b,side_length_c))
+#classify_triangle(side_length_a,side_length_b,side_length_c)
+#print(classify_triangle(side_length_a,side_length_b,side_length_c))
